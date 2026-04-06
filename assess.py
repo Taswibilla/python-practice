@@ -41,9 +41,6 @@ df = pd.read_csv("students.csv")
 
 #pandas operations
 
-# Data cleaning
-df.fillna(df.mean(numeric_only=True), inplace=True)
-
 # Filtering (students with marks > 70)
 high_scores = df[df['Math'] > 70]
 print(high_scores)
