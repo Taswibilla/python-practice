@@ -1,5 +1,5 @@
 #insights
-#1.Missing values were cleaned, so the data became complete and usable.
+#1.Using numpy and pandas, we can easily perform calculations and data manipulations.
 
 #2. Filtering helped to identify students with higher marks.
 
